@@ -6,6 +6,7 @@ public class users {
     private String password;
     public static int count = 1;
     public static String input;
+public static string password1="test";
 
     public users(String Ruser, String Rpassword) {
 
